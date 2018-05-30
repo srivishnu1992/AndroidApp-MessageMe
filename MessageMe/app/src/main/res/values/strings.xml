@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MessageMe</string>
+    <string name="strEmail">Email</string>
+    <string name="strPassword">Password</string>
+    <string name="strLogin">LogIn</string>
+    <string name="strSignUp">Sign Up</string>
+    <string name="strNewUser">New User?</string>
+    <string name="strFirstName">First Name</string>
+    <string name="strLastName">Last Name</string>
+    <string name="strChoose">Choose Password</string>
+    <string name="strRepeat">Repeat Password</string>
+    <string name="strCancel">Cancel</string>
+    <string name="strNull" />
+    <string name="newMessage">Compose Message</string>
+    <string name="strTo">To:</string>
+    <string name="strLogout">Logout</string>
+    <string name="strMessage">Message</string>
+    <string name="strSend">Send</string>
+    <string name="strFrom">From :</string>
+    <string name="delMessage">Delete</string>
+    <string name="strReply">Reply</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
